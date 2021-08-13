@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Ruttie, I mainly code in C# and am part of the Hollow Knight modding community.
 
 <!--
 **Ruttie2006/Ruttie2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ruttie2006&count_private=true&show_icons=true&theme=dark&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruttie2006&theme=dark&hide_border=true" />
+</div>

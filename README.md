@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there 👋
+<!-- General Kenobi -->
 I am Ruttie, I mainly code in C# and am part of the Hollow Knight modding community.
 
 <!--
